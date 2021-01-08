@@ -18,11 +18,11 @@
 		Churn rate = no.of customer cancellations / No.of active customers
 
 ## Bases?
-  Know customer rate
-  at the time of Week
-  at the time of Month
-  Product line
-  Customer cohort
+	  Know customer rate
+	  at the time of Week
+	  at the time of Month
+	  Product line
+	  Customer cohort
 #### But,
 ### Churn is needed at a granular level.
   Cohort based churn model may not be enough for precise targeting / real time prediction as customers vary in Behaviour and preferences which influences the satisfaction and desire to churn.
