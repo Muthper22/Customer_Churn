@@ -1,6 +1,6 @@
 # Customer_Churn
   Analyzing and building prediction models for customer churn
-  Customer Churn
+  Prediction models: Logistic Regression, Random forest and Decision tree.
 
 ## What?
   Customer churn or customer attrition is the percentage of customers that stopped using your company's product or service during a certain time frame
